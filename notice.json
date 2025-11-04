@@ -25,8 +25,14 @@
   },
   {
     "id": 4,
-    "title": "お知らせ: ReadMaster Plusの配信",
+    "title": "お知らせ: ReadMaster Plusの配信停止中",
     "date": "2025-11-4",
     "body": "現在AppleStoreでの審査中につき、ReadMaster Plusの配信画面がご利用いただけません。ご了承ください。\n審査が終了し、配信が開始し次第、こちらのアナウンスでお知らせいたします。"
+  },
+  {
+    "id": 5,
+    "title": "お知らせ: ReadMaster Plusの配信が開始",
+    "date": "2025-11-4",
+    "body": "審査が終了し、正式にReadMaster Plusの配信を開始しました！"
   }
 ]
